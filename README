@@ -1,0 +1,2 @@
+check_new_version.sh słóży do sprawdzania najaktualniejszych wersji popularnych
+CMSów. Dane pobierane są z Installatrona. Skrypt ten należy dodać do crona.
