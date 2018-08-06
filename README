@@ -1,2 +1,9 @@
-check_new_version.sh słóży do sprawdzania najaktualniejszych wersji popularnych
-CMSów. Dane pobierane są z Installatrona. Skrypt ten należy dodać do crona.
+Repo zawiera skrypty do sprawdzania najnowszysch wersji wybranych cmsów oraz do 
+sprawdzania wersji aktualnie zainstalownych.
+
+check_new_version.sh słóży do sprawdzania najaktualniejszych wersji CMSów. Dane 
+pobierane są z Installatrona. Skrypt ten należy dodać do crona. Wystarczy uruchamiać 
+go w jednaj lokalizacji i wystawić na zewnątrz: http://ip.ayz.pl/wersje/wersje.txt
+
+cms.sh sprawdza wersje aktualnie zainstalowane na koncie. Aktualnie umieszczony 
+w /root/cms.sh i dodany jako alias cms.
